@@ -2,53 +2,58 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Saroj Kumar</strong>
+  Hi, I'm <strong>Saroj Kumar Pradhan</strong> (SarojXLipun)
 </h1>
 
-<h3>Student Developer | Web Developer | Startup Builder</h3>
+<h3>Founder & CEO @ Codeversa | Entrepreneur | Developer</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a student developer from Odisha, India, passionate about building digital products and startups.  
-    I enjoy turning ideas into real-world applications through clean UI, efficient code, and scalable systems.
+    I'm <strong>Saroj Kumar Pradhan</strong>, also known as <strong>SarojXLipun</strong>, a student developer and entrepreneur from Odisha, India, passionate about building digital products, startups, and developer communities.
   </p>
 
   <p>
-    Currently focused on learning full-stack development, building projects, and exploring cybersecurity and modern web technologies.
+    Founder & CEO of <strong>Codeversa</strong>, focused on building impactful technology solutions, educational platforms, and empowering developers through innovation.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_Odisha,_India-1e1e2e?style=for-the-badge" />
+    Former <strong>Google Gemini Student Ambassador</strong> & <strong>MyGov Campus Ambassador</strong>.  
+    Currently focused on Full-Stack Development, UI/UX Design, Cybersecurity, and Startup Building.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_Bhubaneswar,_Odisha,_India-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🎓_Diploma_in_Computer_Science-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Founder_@_Codeversa-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Projects)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Building_Adhyayan_(EdTech)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📚_Building_Adhyayan_(EdTech)-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
 
 <p align="left">
 
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  <a href="https://github.com/sarojxlipun">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sarojxlipun">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  <a href="https://instagram.com/sarojxlipun">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  <a href="https://youtube.com/@sarojxlipun">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Saroj-Kumar&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=sarojxlipun&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -110,7 +115,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=sarojxlipun&theme=dark&hide_border=true" alt="Streak" />
 
 </div>
 
@@ -118,10 +123,11 @@
 
 # 🚀 Current Focus
 
-- Building **Adhyayan – AI powered learning platform**
-- Improving **Full-Stack Development Skills**
-- Exploring **Cybersecurity & Ethical Hacking**
-- Participating in **Hackathons and Developer Communities**
+* Building **Adhyayan – AI powered learning platform**
+* Growing **Codeversa**
+* Improving **Full-Stack Development Skills**
+* Exploring **Cybersecurity & Ethical Hacking**
+* Participating in **Hackathons and Developer Communities**
 
 ---
 
